@@ -1,4 +1,4 @@
-# Sentiment-Analysis-with-an-RNN
+# Sentiment Analysis with an RNN
 
 Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, helping a business to understand the social sentiment of their brand, product or service. This field had many improvements with the advances of deep learning techniques and the increasing popularity of social networks.
 
